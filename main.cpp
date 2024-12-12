@@ -1,3 +1,9 @@
+/*
+Atividade: SGT
+Data de conclusão: 12/12/2024
+Autor: Alexandre Aires Aleixo
+*/
+
 #include <iostream>
 #include <vector>
 #include <fstream>
